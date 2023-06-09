@@ -13,6 +13,3 @@ Download dataset from here:(on Kaggle, here: https://www.kaggle.com/djonafegnem/
 # Names:
 Reda Mohsen Reda 18P5141
 Noor Eldin Talaat 18P3826
-Mohamed Sameh Ahmed 17p3033
-Nour Eldin Khaled 18p5722
-Youssef Massoud 18p8814
